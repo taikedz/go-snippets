@@ -1,0 +1,6 @@
+bin/
+*.swp
+*.log
+
+*.local.*
+local_*
